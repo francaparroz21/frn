@@ -10,6 +10,10 @@ const App = () => {
             <Navbar />
             { /* Home */}
             <Hero />
+            <section className='min-h-screen'></section>
+            <section className='min-h-screen'></section>
+            <section className='min-h-screen'></section>
+            <section className='min-h-screen'></section>
             { /* Navbar */}
 
             { /* Navbar */}
