@@ -1,6 +1,7 @@
 import React from 'react'
 
 import Navbar from './components/Navbar'
+import Hero from './components/Hero'
 
 const App = () => {
     return (
@@ -8,7 +9,7 @@ const App = () => {
             { /* Navbar */}
             <Navbar />
             { /* Home */}
-            
+            <Hero />
             { /* Navbar */}
 
             { /* Navbar */}
